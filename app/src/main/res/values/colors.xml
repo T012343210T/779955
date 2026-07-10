@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- پس‌زمینه -->
+    <color name="bg_root">#0A0E17</color>
+    <color name="bg_surface">#121826</color>
+    <color name="bg_card">#161D2E</color>
+    <color name="bg_card_alt">#1A2338</color>
+
+    <!-- رنگ‌های نئونی اصلی -->
+    <color name="accent_cyan">#00E5FF</color>
+    <color name="accent_violet">#8B5CF6</color>
+    <color name="accent_pink">#FF3D9A</color>
+
+    <!-- وضعیت‌ها -->
+    <color name="status_good">#00E676</color>
+    <color name="status_warning">#FFB300</color>
+    <color name="status_bad">#FF5252</color>
+
+    <!-- متن -->
+    <color name="text_primary">#F5F7FA</color>
+    <color name="text_secondary">#9AA5B8</color>
+    <color name="text_disabled">#5A6478</color>
+
+    <color name="divider">#232D42</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="transparent">#00000000</color>
+</resources>

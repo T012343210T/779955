@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NetPulse</string>
+    <string name="nav_dashboard">داشبورد</string>
+    <string name="nav_network">شبکه</string>
+    <string name="nav_more">ابزارها</string>
+    <string name="nav_monitor">مانیتورینگ</string>
+    <string name="nav_scan">اسکن</string>
+
+    <string name="dashboard_title">وضعیت شبکه</string>
+    <string name="quality_score_label">امتیاز کیفیت شبکه</string>
+    <string name="section_basic">اطلاعات پایه</string>
+    <string name="section_network">اطلاعات شبکه</string>
+    <string name="section_wifi">Wi‑Fi</string>
+
+    <string name="label_internal_ip">IP داخلی</string>
+    <string name="label_public_ip">IP عمومی</string>
+    <string name="label_ipv6">IPv6</string>
+    <string name="label_connection_type">نوع اتصال</string>
+    <string name="label_internet_status">وضعیت اینترنت</string>
+    <string name="label_wifi_name">نام Wi‑Fi</string>
+    <string name="label_bssid">BSSID</string>
+    <string name="label_signal">قدرت سیگنال</string>
+    <string name="label_frequency">فرکانس</string>
+    <string name="label_channel">کانال</string>
+    <string name="label_link_speed">سرعت لینک</string>
+    <string name="label_gateway">Gateway</string>
+    <string name="label_dns">DNS</string>
+    <string name="label_subnet">Subnet Mask</string>
+    <string name="label_dhcp">DHCP Server</string>
+    <string name="label_connected_time">مدت اتصال</string>
+
+    <string name="status_connected">متصل</string>
+    <string name="status_disconnected">قطع</string>
+    <string name="not_available">—</string>
+
+    <string name="pull_to_refresh">برای بروزرسانی بکشید</string>
+
+    <string name="lock_title">NetPulse قفل است</string>
+    <string name="lock_subtitle">برای دسترسی به اطلاعات شبکه، هویتت رو با قفل گوشی تأیید کن</string>
+    <string name="lock_button">تأیید هویت</string>
+    <string name="lock_no_device_credential">گوشیت قفل صفحه (PIN/پترن/پسورد) نداره، پس این محافظت غیرفعاله. اول از تنظیمات گوشی یه قفل صفحه بذار.</string>
+</resources>

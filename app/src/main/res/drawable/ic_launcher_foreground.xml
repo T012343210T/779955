@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp" android:height="108dp"
+    android:viewportWidth="108" android:viewportHeight="108">
+
+    <!-- نقطه مرکزی -->
+    <path
+        android:fillColor="#00E5FF"
+        android:pathData="M54,60m-6,0a6,6 0,1 1,12 0a6,6 0,1 1,-12 0" />
+
+    <!-- کمان داخلی -->
+    <path
+        android:strokeColor="#00E5FF"
+        android:strokeWidth="4"
+        android:strokeLineCap="round"
+        android:pathData="M38,50 A22,22 0 0,1 70,50" />
+
+    <!-- کمان بیرونی -->
+    <path
+        android:strokeColor="#8B5CF6"
+        android:strokeWidth="4"
+        android:strokeLineCap="round"
+        android:pathData="M26,38 A38,38 0 0,1 82,38" />
+
+</vector>
